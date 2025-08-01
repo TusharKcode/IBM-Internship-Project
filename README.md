@@ -1,5 +1,6 @@
 # LearnMate - AI Agent for Personalized Course Pathways
-
+ 
+ ![Agent logo](/screenshots/logo.jpg)
 ---
 
 ## Problem Statement (IBM AI Agent Internship)
