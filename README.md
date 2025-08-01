@@ -58,19 +58,19 @@ LearnMate-AI-Agent/
 Here are few screenshots showcasing the agent in action and configuration steps:
 
 1. *Agent Setting up (Chat interface)*
-    ![Agent Chat]('./screenshots/Project-setting-up.png')
+    ![Agent Chat](Project-setting-up.png)
 
 2. *Agent Instructions*
-    ![Agent Instuctions]('./screenshots/Project-Instructions.png')
+    ![Agent Instuctions](Project-Instructions.png)
 
 3. *Agent Quick Start Questions*
-    ![Agent Quick Start Questions]('./screenshots/Project-quick-start-ques.png')
+    ![Agent Quick Start Questions](Project-quick-start-ques.png)
 
 4. *Agent Tools and Testing Output*
-    ![Agent Tools and Testing]('./screenshots/Tools-and-Testing.png')
+    ![Agent Tools and Testing](Tools-and-Testing.png)
 
 5. *Agent Deployment*
-    ![Deployment]('./screenshots/Project-Deployment.png')
+    ![Deployment](Project-Deployment.png)
 ---
 
 ## Acknowledgements
