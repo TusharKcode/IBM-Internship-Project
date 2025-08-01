@@ -1,0 +1,8 @@
+			Tools Used in this project
+--------------------------------------------------------------------------------------
+
+1.IBM Watsonx.ai Studio
+2.IBM Granite Foundation Model (granite-3-3-8b-instruct)
+3.IBM CLoud Lite
+4.IBM Cloud Watsonx AI Runtime
+5.IBM Cloud Agent Lab
